@@ -1,5 +1,9 @@
-### Hi there 👋
----
+# 👋 Welcome!
+
+같이 일하고 싶은 사람이 되고 싶은 사람 😀
+
+### **`SomWorks >`**
+- **`ShovelWorks Studio`** | Creative Director, Programmer
 
 <div align=center>
   
