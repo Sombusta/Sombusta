@@ -1,9 +1,8 @@
-# 👋 Welcome!
+# Welcome! 👋
 
-같이 일하고 싶은 사람이 되고 싶은 사람 😀
+함께 일하고 싶은 사람이 되고 싶은 사람 😀
 
 ### **`SomWorks >`**
-- **`ShovelWorks Studio`** | Creative Director, Programmer
 
 <div align=center>
   
@@ -24,4 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- **`ShovelWorks Studio`** | Creative Director, Client Programmer
+- **`Action Square`** | Client Programmer
+
 -->
