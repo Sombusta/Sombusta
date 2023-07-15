@@ -15,7 +15,7 @@
 <br>
 
 ### **🚀 Skills**
-<img src="https://img.shields.io/badge/Cpp-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=csharp&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/></a>&nbsp;
 
@@ -28,10 +28,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white"/></a>&nbsp;
 
-
-
 <!--
-
+[![github stats](https://github-readme-stats.vercel.app/api?username=sombusta)](https://github.com/sombusta/sombusta)
 [<img src="https://img.shields.io/badge/Profile-0D0D0D?style=flat&logo=notion&logoColor=white"/>](https://www.notion.so/somworks/Jeongseok-Park-840bdf41d7294bf0acfc8660bb02bb06?pvs=4)	
 
 **Sombusta/Sombusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
