@@ -1,6 +1,7 @@
 # Welcome! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSombusta)](https://hits.seeyoufarm.com)	
 
 ### **`SomWorks >`** | 함께 일하고 싶은 사람이 되고 싶은 사람 😀
+
 <br>
 
 **안녕하세요, 새로운 경험을 즐기는 게임 개발자 `박정석` 입니다.**
@@ -10,8 +11,6 @@
 이후에 언리얼 엔진 4와 VR을 활용한 다수의 프로젝트에 VR 클라이언트 프로그래머로 참여하여 개발을 주도하였으며, 다년간 VR 개발을 해오며 쌓은 노하우를 살려 국내 언리얼 엔진 커뮤니티에서 언리얼 프렌즈 활동, 국내 최초의 VR 서적인, 【더 게임 그래픽스 유니티 언리얼 그리고 VR】 집필 참여 등 다양한 활동을 했습니다.
 
 또한, 다양한 역량을 쌓고 새로운 기회를 만들기 위해 5년간 다닌 회사를 퇴사하고 대학교에 진학하여 내실을 쌓았으며, 현재는 다시 현업으로 복귀하여 프로그래머로 활동 중입니다.
-
-[<img src="https://img.shields.io/badge/Profile-0D0D0D?style=flat&logo=notion&logoColor=white"/>](https://www.notion.so/somworks/Jeongseok-Park-840bdf41d7294bf0acfc8660bb02bb06?pvs=4)	
 
 <br>
 
@@ -32,6 +31,9 @@
 
 
 <!--
+
+[<img src="https://img.shields.io/badge/Profile-0D0D0D?style=flat&logo=notion&logoColor=white"/>](https://www.notion.so/somworks/Jeongseok-Park-840bdf41d7294bf0acfc8660bb02bb06?pvs=4)	
+
 **Sombusta/Sombusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
