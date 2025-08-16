@@ -1,4 +1,4 @@
-# Welcome! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSombusta)](https://hits.seeyoufarm.com)	
+# Welcome! 👋
 
 ### **`SomWorks >`** | 함께 일하고 싶은 사람이 되고 싶은 사람 😀
 
